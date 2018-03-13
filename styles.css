@@ -27,7 +27,13 @@
             width: 50%
             height: 50%;
         }
+ li {
+float:left;
+width: 120;
+padding-left: 10px
 
+ }
+        
      [class^="btn"]{
 border: 10px solid greenyellow  }
 [class*="primary"] { border : 10px solid darkred}
