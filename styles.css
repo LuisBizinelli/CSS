@@ -23,10 +23,18 @@
     .destaque {
         color:darkorange;
     }
+    img {
+            width: 50%
+            height: 50%;
+        }
+
+     [class^="btn"]{
+border: 10px solid greenyellow  }
+[class*="primary"] { border : 10px solid darkred}
 
     [type="button"] {
 
-       color: blue;
+       color:blue;
     }
     
     
